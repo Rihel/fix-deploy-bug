@@ -1,0 +1,19 @@
+{
+  "appKey": "Z8tP9gRtP2vfhQzx673Z34SYjJIRtJN8",
+  "appSecret": "cZnD5ZJOa8x2rNcyYyYczgB0zfu3IWSi",
+  "projectId": 106,
+  "id": 194,
+  "name": "fix-deploy-bug",
+  "framework": "vue",
+  "platform": "pc",
+  "description": "修复bug",
+  "git": {
+    "url": "https://github.com/Rihel/fix-deploy-bug.git",
+    "isPrivate": 0,
+    "username": "Rihel",
+    "password": "Dqshanshan0327"
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
